@@ -1,0 +1,25 @@
+{
+  "name": "speech-generator",
+  "version": "1.0.0",
+  "description": "Generates free speeches for Dems, they were going to pay for less good ones anyway!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dowelc/speech-generator.git"
+  },
+  "keywords": [
+    "primary",
+    "2020",
+    "democrats",
+    "election"
+  ],
+  "author": "Courtney Dowell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dowelc/speech-generator/issues"
+  },
+  "homepage": "https://github.com/dowelc/speech-generator#readme"
+}
